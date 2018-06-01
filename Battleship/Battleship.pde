@@ -1,1 +1,1 @@
-println("Welcome to battleship you will have 50 turns to win");
+println("Welcome to battleship you will have 50 turns to win press space to start");
